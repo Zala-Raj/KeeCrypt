@@ -178,7 +178,7 @@ If you find a problem or have an idea for improving KeeCrypt, feel free to open 
 
 ## 📄 Copyright
 
-Copyright Raj Zala @2026
+Copyright Raj Zala @2026.
 
 ---
 
