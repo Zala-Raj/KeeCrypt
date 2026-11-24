@@ -184,3 +184,16 @@ Copyright Raj Zala @2026.
 
 **KeeCrypt — Your data. Your device. Your control.**
 
+<br>
+
+---
+
+<p align="center">
+  <img src="https://hits.sh/github.com/Zala-Raj/REPO_NAME.svg?style=flat-square&label=Repository%20Views" alt="Repository Views"/>
+</p>
+
+<p align="center">
+  ⭐ If you find this project useful, consider giving it a star!
+  <br>
+  Thanks for visiting! Your feedback and suggestions are always welcome. 💚
+</p>
