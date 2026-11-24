@@ -188,8 +188,9 @@ Copyright Raj Zala @2026.
 
 ---
 
+<!-- Don't forget to update the repo name in below link after .../Zala-Raj/_Here_.svg....-->
 <p align="center">
-  <img src="https://hits.sh/github.com/Zala-Raj/REPO_NAME.svg?style=flat-square&label=Repository%20Views" alt="Repository Views"/>
+  <img src="https://hits.sh/github.com/Zala-Raj/KeeCrypt.svg?style=flat-square&label=Repository%20Views" alt="Repository Views"/>
 </p>
 
 <p align="center">
